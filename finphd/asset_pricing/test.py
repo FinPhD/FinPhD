@@ -3,3 +3,4 @@ def A() -> None:
 
 def B():
     print('Hello haiwei')
+    print('Hello Hai')
