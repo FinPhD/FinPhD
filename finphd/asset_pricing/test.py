@@ -1,2 +1,5 @@
 def A() -> None:
-    print('Hello World!')
+    print('Hello Haiwei')
+
+def B():
+    print('Hello Haotian')
