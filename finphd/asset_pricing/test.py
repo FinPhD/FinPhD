@@ -1,5 +1,5 @@
 def A() -> None:
-    print('Hello Haiwei')
+    print('Hello Hai')
 
 def B():
-    print('Hello Haotian')
+    print('Hello Hao')
